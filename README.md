@@ -1,5 +1,5 @@
 # Counter App (React)
-     Iam build a beginner level react project (i.e Counter App).A simple and interactive Counter Application built using React to demonstrate the use of state management with the useState hook.
+Iam build a beginner level react project (i.e Counter App).A simple and interactive Counter Application built using React to demonstrate the use of state management with the useState hook.
 # Features
 
 ➕ Increment the counter value
