@@ -19,3 +19,5 @@ Iam build a beginner level react project (i.e Counter App).A simple and interact
 👉HTML5
 👉CSS3
 
+# 📸Preview
+![Counter App Preview](counter-output.png)
